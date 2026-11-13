@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+fintrack.db
+.streamlit/secrets.toml
+.env
